@@ -1,1 +1,1 @@
-# Rock-paper-scissors-odin-onet26
+This is project Rock Paper Scissors by Onet26
